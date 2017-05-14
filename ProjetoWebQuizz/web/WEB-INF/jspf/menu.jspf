@@ -1,0 +1,42 @@
+<%@ page pageEncoding="UTF-8" %>
+
+ 
+    <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+        <div class="container">
+            
+           
+ <h2 style="color:white">Web QUIZ</h2>
+     <a href="index.jsp" style="color:white">HOME</a> - 
+     <a href="" style="color:white">PAGINA DAS PERGUNTAS</a>  - 
+    
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+           <!-- <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="#page-top">Calculadora de Amortização</a> 
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling 
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li> 
+                    <li class="page-scroll">
+                        <a href="amortizacao-constante.jsp">Amortização Constante</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="amortizacao-americana">Amortização Americana</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="tabela-price.jsp">Tabela Price</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+       <!-- </div>
+        <!-- /.container-fluid -->
+   </nav>
